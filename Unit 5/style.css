@@ -1,0 +1,16 @@
+
+body {background-color: lightskyblue;}
+
+h1, h2, h3 {text-align: center;}
+
+.wrapper {width: 80%; margin: auto; background-color: white; box-shadow: 10px 10px;}
+
+div {width: 90%; margin: auto;}
+
+.itembox {border: black; border-radius: 25px; box-shadow: 10px 10px; background-color: yellow; color: lightcoral; padding: 30px 55px 70px 110px;}
+
+.favorite {border: brown; border-radius: 25px; box-shadow: 10px 10px; background-color: darkcyanray; color: blueviolet; padding: 25px 50px 75px 100px;}
+
+ol {background-color: white; list-style-type: lower-alpha;}
+
+ul {background-color: grey; list-style-type: square;}

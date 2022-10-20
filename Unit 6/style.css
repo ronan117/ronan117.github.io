@@ -1,0 +1,29 @@
+.Image_1 {
+  height:300px;
+}
+
+main {
+  background-color: black;
+  color: white;
+}
+
+body {
+  background-image: url("Cute turtle.jpg");
+   background-attachment: fixed;
+  background-size: cover;
+}
+
+div#wrapper {
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+ul {
+  list-style-image: url("voicemeeter-banana-icon-32.png");
+}
+
+#specialborder {
+  border: 15px solid transparent;
+  border-image: url("https://mdn.github.io/css-examples/tools/border-image-generator/border-image-1.png")
+}
